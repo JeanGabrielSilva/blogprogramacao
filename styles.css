@@ -1,6 +1,15 @@
 body{
     font-family: Arial, sans-serif;
-    margin: 02;
+    margin: 2;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #ffffff;
+}
+
+.bg-custom {
+    background-color: #882db2; 
+}
+
+
+.black-text {
+    color: #000; /* Cor preta */
 }
